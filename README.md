@@ -1,44 +1,47 @@
 # ATP Showcase
 
-Building production-ready software, backend systems, and developer tools.
+Building production-ready software systems.
 
-I enjoy designing systems that are simple to maintain, scalable to grow, and enjoyable to build.
+I design and build scalable web applications, backend APIs, and developer tools while documenting the engineering decisions behind every project.
 
-Instead of only writing code, I document the engineering decisions behind every project through articles, labs, architecture diagrams, and open-source repositories.
+---
+
+## About
+
+```text
+Location     Indonesia
+Focus        Backend Engineering
+Stack        Go · Next.js · PostgreSQL · Docker
+Learning     Distributed Systems · AI Engineering
+```
 
 ---
 
 ## Tech Stack
 
-Backend
+### Backend
 
-- Go
-- Gin
-- PostgreSQL
-- Redis
-- REST API
+<p>
+  <img src="https://skillicons.dev/icons?i=go,nodejs" />
+</p>
 
-Frontend
+### Frontend
 
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" />
+</p>
 
-Infrastructure
+### Database
 
-- Docker
-- Nginx
-- Linux
-- GitHub Actions
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+</p>
 
-Architecture
+### Infrastructure
 
-- System Design
-- Microservices
-- Caching
-- Queues
-- Observability
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,githubactions" />
+</p>
 
 ---
 
@@ -46,73 +49,44 @@ Architecture
 
 ### ATP Core
 
-A reusable backend platform powering multiple client applications.
-
-Features include:
+A reusable backend platform for multiple client applications.
 
 - Authentication
 - Multi-tenant Architecture
 - CMS
 - Analytics
-- File Storage
-- Notifications
+- RBAC
 - Product Management
 - Orders
 - Payments
-- Role-Based Access Control
-
----
 
 ### ATP Showcase
 
-A platform where I document engineering concepts through articles, diagrams, and interactive labs.
+Engineering notes, architecture diagrams, labs, and technical articles.
 
-Topics include:
+---
 
-- Backend Development
+## Engineering Interests
+
+- Backend Systems
 - System Design
-- Databases
+- API Architecture
+- Performance Optimization
 - DevOps
-- API Design
-- Performance
-- Software Architecture
+- AI Agents
 
 ---
 
-## Engineering Philosophy
+## Philosophy
 
-Good software is not measured by how many technologies it uses.
-
-It is measured by how easy it is to understand, maintain, and evolve.
-
-I prefer solving business problems with simple architectures before introducing additional complexity.
-
----
-
-## Currently Learning
-
-- Distributed Systems
-- Kubernetes
-- Event-Driven Architecture
-- AI Engineering
-- High Performance Backend
+> Good software should be simple to understand, easy to maintain, and ready to scale.
 
 ---
 
 ## Connect
 
-Website
+🌐 https://atpshowcase.com
 
-https://atpshowcase.com
+📚 https://atpshowcase.com/articles
 
-Articles
-
-https://atpshowcase.com/articles
-
-Labs
-
-https://atpshowcase.com/labs
-
-LinkedIn
-
-Coming Soon
+🧪 https://atpshowcase.com/labs
